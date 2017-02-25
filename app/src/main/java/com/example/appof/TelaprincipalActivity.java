@@ -48,7 +48,6 @@ public class TelaprincipalActivity extends AppCompatActivity {
         }
         return super.onContextItemSelected(item);
 
-
     }
 
 
