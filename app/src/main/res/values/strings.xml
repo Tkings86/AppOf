@@ -3,4 +3,6 @@
     <string name="title_activity_telaprincipal">Hunter Food</string>
     <string name="menuLocais">Meus Locais</string>
     <string name="menuConfiguracao">Configuração</string>
+    <string name="tituloMeusLocais">Meus Locais</string>
+    <string name="tituloMeusConfiguracao">Configuração</string>
 </resources>
