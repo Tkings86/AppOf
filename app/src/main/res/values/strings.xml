@@ -5,4 +5,5 @@
     <string name="menuConfiguracao">Configuração</string>
     <string name="tituloMeusLocais">Meus Locais</string>
     <string name="tituloMeusConfiguracao">Configuração</string>
+    <string name="btnBuscar">Buscar</string>
 </resources>

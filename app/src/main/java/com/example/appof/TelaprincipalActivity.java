@@ -44,6 +44,7 @@ public class TelaprincipalActivity extends AppCompatActivity {
         //Inicio
         Spinner s_preco = (Spinner) findViewById(R.id.s_preco);
         List<String> preco = new ArrayList<>();
+        preco.add("");
         preco.add("20 reais");
         preco.add("25 reais");
         preco.add("30 reais");
@@ -52,6 +53,7 @@ public class TelaprincipalActivity extends AppCompatActivity {
 
         Spinner s_categoria = (Spinner) findViewById(R.id.s_categoria);
         List<String> categoria = new ArrayList<>();
+        categoria.add("");
         categoria.add("Lanche");
         categoria.add("Prato Feito");
         categoria.add("Doçes");
